@@ -23,5 +23,4 @@ Cada script lê seu respectivo arquivo .txt no mesmo diretório.
 
 ## Autor
 
-Eduardo Alves Xavier
-(51) 98101-2108
+Eduardo Alves Xavier — [LinkedIn](https://linkedin.com/in/eduardo-a-xavier) · [GitHub](https://github.com/eduardo-a-xavier)
